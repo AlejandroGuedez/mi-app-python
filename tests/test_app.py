@@ -1,4 +1,4 @@
-import pytest, json
+import json
 from app import app, multiplicar, es_par
 
 @pytest.fixture
